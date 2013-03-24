@@ -1,0 +1,4 @@
+libCube_la-cube.lo: src/cube.cpp \
+ /home/ubuntu/code/autotools/templates/templates/recursive_output_directory/libCube/include/cube.hpp
+
+/home/ubuntu/code/autotools/templates/templates/recursive_output_directory/libCube/include/cube.hpp:
